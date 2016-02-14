@@ -1,3 +1,5 @@
+[![Analytics](https://ga-beacon.appspot.com/UA-73781306-2/jcifs)](https://github.com/igrigorik/ga-beacon)
+
 Tue Oct 18 15:10:23 EDT 2011
 jcifs-1.3.17
 
